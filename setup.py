@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='logfinance',
-    version='0.0.1',
+    version='0.0.2-beta',
     packages=find_packages(),
     install_requires=[],
     author='Erfan Varedi',
